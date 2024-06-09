@@ -1,5 +1,9 @@
 # Bem-vindo ao meu perfil no GitHub!
 
+## GitHub Stats
+
+[![Tulio Mendes's GitHub stats](https://github-readme-stats.vercel.app/api?username=TulioMendesDS&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Sobre Mim
 
 Olá! Eu sou Tulio Mendes, um analista de dados apaixonado por transformar dados brutos em insights valiosos. Tenho experiência em diversas linguagens de programação e ferramentas que me permitem lidar com todos os aspectos do ciclo de vida dos dados, desde a coleta e limpeza até a análise e visualização.
