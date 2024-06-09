@@ -1,7 +1,5 @@
 # Olá, eu sou Tulio Mendes!
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período, mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance).
-
 ## GitHub Stats
 
 ![Tulio's GitHub stats](https://github-readme-stats.vercel.app/api?username=TulioMendesDS&show_icons=true&theme=dracula)
