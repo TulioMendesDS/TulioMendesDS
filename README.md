@@ -49,3 +49,44 @@ DataLogic é um projeto que visa a análise e visualização de dados complexos 
 - **Email**: tuliomendesdev@gmail.com
 
 Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato para qualquer colaboração ou oportunidade.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&width=1000&lines=HELLO,+My+name+is+Wictor+Rafael;I'm+a+Fullstack+Developer;I+from+Brazil;Be+Wellcome!+:%29)](https://git.io/typing-svg)
+
+<div style="display: flex">
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wictorrf&show_icons=true&theme=cobalt&hide=contribs,prs"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wictorrf&layout=compact&langs_count=8&theme=cobalt&exclude_repo=github-readme-stats,wictorrf.github.io"/>
+
+</div>
+
+<h2>Principais Linguagens</h2>
+
+<div style="display: inline_block">
+  <img align="center" alt="SQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="Docker" height="30" width="40" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" />
+  <img align="center" alt="Python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" />
+</div>
+
+##
+
+<div> 
+  <a href="https://instagram.com/wictor_rf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wictorrf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:wictor.santos20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wictorrafael/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
