@@ -2,7 +2,8 @@
 
 ## GitHub Stats
 
-[![Tulio Mendes's GitHub stats](https://github-readme-stats.vercel.app/api?username=TulioMendesDS&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&langs_count=5&layout=compact&hide=html,css&theme=radical&exclude_repo=SEU_REPOSITORIO_PRIVADO)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Sobre Mim
 
