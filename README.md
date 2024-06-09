@@ -18,7 +18,6 @@
   <img align="center" alt="Docker" height="30" width="40" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" />
   <img align="center" alt="Python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" />
   <img align="center" alt="Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" />
-  
 </div>
 
 ##
@@ -29,7 +28,6 @@
 </div>
 
 
-
 ## Sobre Mim
 
 Olá! Eu sou Tulio Mendes, um analista de dados apaixonado por transformar dados brutos em insights valiosos. Tenho experiência em diversas linguagens de programação e ferramentas que me permitem lidar com todos os aspectos do ciclo de vida dos dados, desde a coleta e limpeza até a análise e visualização.
@@ -38,11 +36,11 @@ Olá! Eu sou Tulio Mendes, um analista de dados apaixonado por transformar dados
 
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
+  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
   ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
