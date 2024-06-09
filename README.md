@@ -7,10 +7,7 @@ Olá! Eu sou Tulio Mendes, um analista de dados apaixonado por transformar dados
 <h2 id="tech">💻 Principais Tecnologias Utilizadas</h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -38,15 +35,6 @@ Olá! Eu sou Tulio Mendes, um analista de dados apaixonado por transformar dados
 
 ### [DataLogic](https://github.com/TulioMendesDS/DataLogic/tree/main)
 DataLogic é um projeto que visa a análise e visualização de dados complexos para identificar padrões e fornecer insights acionáveis. Utilizamos Python, SQL e ferramentas de visualização como Tableau para transformar dados brutos em informações úteis.
-
-### [Projeto 1](link_para_projeto)
-Descrição breve do projeto, o problema que resolve e as tecnologias utilizadas.
-
-### [Projeto 2](link_para_projeto)
-Descrição breve do projeto, o problema que resolve e as tecnologias utilizadas.
-
-### [Projeto 3](link_para_projeto)
-Descrição breve do projeto, o problema que resolve e as tecnologias utilizadas.
 
 ## Entre em Contato
 
