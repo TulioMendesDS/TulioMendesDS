@@ -1,69 +1,22 @@
-# Olá, eu sou Tulio Mendes!
-
-## GitHub Stats
-
-![Tulio's GitHub stats](https://github-readme-stats.vercel.app/api?username=TulioMendesDS&show_icons=true&theme=dracula)
-
-## Linguagens Mais Usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TulioMendesDS&layout=compact&theme=dracula)
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Tulio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Tulio-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="Tulio-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Tulio-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="Tulio-TensorFlow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
-  <img align="center" alt="Tulio-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Tulio-Numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-</div>
-  
-##
-
-<div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/tuliomendes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/tuliomendes" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="mailto:contatotuliomendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tuliomendes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-
 # Bem-vindo ao meu perfil no GitHub!
 
 ## Sobre Mim
 
-Olá! Eu sou [Seu Nome], um analista de dados apaixonado por transformar dados brutos em insights valiosos. Tenho experiência em diversas linguagens de programação e ferramentas que me permitem lidar com todos os aspectos do ciclo de vida dos dados, desde a coleta e limpeza até a análise e visualização.
+Olá! Eu sou Tulio Mendes, um analista de dados apaixonado por transformar dados brutos em insights valiosos. Tenho experiência em diversas linguagens de programação e ferramentas que me permitem lidar com todos os aspectos do ciclo de vida dos dados, desde a coleta e limpeza até a análise e visualização.
 
-## Principais Linguagens e Ferramentas
+<h2 id="tech">💻 Principais Tecnologias Utilizadas</h2>
 
-### Linguagens de Programação
-
-- **Python**: Uso extensivo para análise de dados, machine learning e automação de processos.
-  - **Bibliotecas**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow.
-- **R**: Focado em estatísticas avançadas e visualização de dados.
-  - **Bibliotecas**: ggplot2, dplyr, tidyr, readr, caret.
-- **SQL**: Manipulação e consulta de bancos de dados relacionais.
-- **Julia**: Para análises de alto desempenho e computação científica.
-- **Scala**: Integração com frameworks de big data, como Apache Spark.
-
-### Ferramentas de Visualização
-
-- **Tableau**: Criação de dashboards interativos e visualizações impactantes.
-- **Power BI**: Análise de negócios e visualização de dados.
-- **Plotly**: Visualizações interativas em Python.
-
-### Big Data e Machine Learning
-
-- **Hadoop & Spark**: Processamento de grandes volumes de dados.
-- **TensorFlow & PyTorch**: Desenvolvimento e treinamento de modelos de machine learning e deep learning.
-
-### Outras Ferramentas e Tecnologias
-
-- **Excel**: Análise de dados e criação de relatórios.
-- **Git/GitHub**: Controle de versão e colaboração em projetos de dados.
-- **Jupyter Notebooks**: Documentação e compartilhamento de análises de dados.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## Habilidades
 
@@ -83,6 +36,9 @@ Olá! Eu sou [Seu Nome], um analista de dados apaixonado por transformar dados b
 
 ## Projetos Destacados
 
+### [DataLogic](https://github.com/TulioMendesDS/DataLogic/tree/main)
+DataLogic é um projeto que visa a análise e visualização de dados complexos para identificar padrões e fornecer insights acionáveis. Utilizamos Python, SQL e ferramentas de visualização como Tableau para transformar dados brutos em informações úteis.
+
 ### [Projeto 1](link_para_projeto)
 Descrição breve do projeto, o problema que resolve e as tecnologias utilizadas.
 
@@ -94,8 +50,7 @@ Descrição breve do projeto, o problema que resolve e as tecnologias utilizadas
 
 ## Entre em Contato
 
-- **LinkedIn**: [Seu LinkedIn](link_para_linkedin)
-- **Email**: seuemail@exemplo.com
+- **LinkedIn**: [Tulio Mendes](https://www.linkedin.com/in/t%C3%BAlio-mendes-9a487a168/)
+- **Email**: tuliomendesdev@gmail.com
 
 Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato para qualquer colaboração ou oportunidade.
-
