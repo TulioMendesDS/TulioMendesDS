@@ -71,8 +71,7 @@ DataLogic é um projeto que visa a análise e visualização de dados complexos 
 - **LinkedIn**: [Tulio Mendes](https://www.linkedin.com/in/t%C3%BAlio-mendes-9a487a168/)
 - **Email**: tuliomendesdev@gmail.com
 
-Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato para qualquer colaboração ou oportunidade.
-
 ---
 
 **Happy Coding!** 🎉
+Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato para qualquer colaboração ou oportunidade.
