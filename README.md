@@ -77,5 +77,6 @@ DataLogic é um projeto que visa a análise e visualização de dados complexos 
 
 **Happy Coding!** 🎉
 
-<h2 Obrigado por visitar meu perfil! 
+Obrigado por visitar meu perfil! 
+
 Sinta-se à vontade para explorar meus repositórios e entrar em contato para qualquer colaboração ou oportunidade.
