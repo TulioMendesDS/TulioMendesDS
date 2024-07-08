@@ -32,7 +32,7 @@
 
 Olá! Eu sou Tulio Mendes, um analista de dados apaixonado por transformar dados brutos em insights valiosos. Tenho experiência em diversas linguagens de programação e ferramentas que me permitem lidar com todos os aspectos do ciclo de vida dos dados, desde a coleta e limpeza até a análise e visualização.
 
-<h2 id="tech">📝 Principais Tecnologias Utilizadas</h2>
+<h2 id="tech"> Principais Tecnologias Utilizadas</h2>
 
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
