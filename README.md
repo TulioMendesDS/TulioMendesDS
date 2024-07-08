@@ -11,7 +11,7 @@
 
 </div>
 
-<h2>Principais Linguagens</h2>
+<h2>Principais Linguagens</h2> 🚀
 
 <div style="display: inline_block">
   <img align="center" alt="SQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" />
@@ -28,11 +28,11 @@
 </div>
 
 
-## Sobre Mim
+## Sobre Mim 💻
 
 Olá! Eu sou Tulio Mendes, um analista de dados apaixonado por transformar dados brutos em insights valiosos. Tenho experiência em diversas linguagens de programação e ferramentas que me permitem lidar com todos os aspectos do ciclo de vida dos dados, desde a coleta e limpeza até a análise e visualização.
 
-<h2 id="tech">💻 Principais Tecnologias Utilizadas</h2>
+<h2 id="tech">🌱 Principais Tecnologias Utilizadas</h2>
 
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -45,7 +45,7 @@ Olá! Eu sou Tulio Mendes, um analista de dados apaixonado por transformar dados
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Habilidades
+## Habilidades 📊
 
 ### Técnicas
 
@@ -66,9 +66,13 @@ Olá! Eu sou Tulio Mendes, um analista de dados apaixonado por transformar dados
 ### [DataLogic](https://github.com/TulioMendesDS/DataLogic/tree/main)
 DataLogic é um projeto que visa a análise e visualização de dados complexos para identificar padrões e fornecer insights acionáveis. Utilizamos Python, SQL e ferramentas de visualização como Tableau para transformar dados brutos em informações úteis.
 
-## Entre em Contato
+## Contato 📧
 
 - **LinkedIn**: [Tulio Mendes](https://www.linkedin.com/in/t%C3%BAlio-mendes-9a487a168/)
 - **Email**: tuliomendesdev@gmail.com
-
+- 
 Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato para qualquer colaboração ou oportunidade.
+
+---
+
+**Happy Coding!** 🎉
