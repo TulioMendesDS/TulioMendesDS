@@ -14,8 +14,8 @@
 <h2>Principais Linguagens 🚀</h2>
 
 <div style="display: inline_block">
-  <img align="center" alt="javascript" height="30" width="40" src="https://img.icons8.com/color/144/000000/javascript--v1.png" />
-  <img src="https://img.icons8.com/color/144/000000/postgreesql.png" alt="postgresql" width="50" height="50"/> </a> <a href="https://neo4j.com/" target="_blank" /> 
+  <img align="center" alt="SQL" height="30" width="40" src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" />
+  <img align="center" alt="postgresql" height="30" width="40" src="https://img.icons8.com/color/144/000000/postgreesql.png" />
   <img align="center" alt="SQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" />
   <img align="center" alt="Docker" height="30" width="40" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" />
   <img align="center" alt="Python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" />
